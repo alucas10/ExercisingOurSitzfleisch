@@ -6,3 +6,5 @@ John Kim: https://github.com/sshalev/erklaerungsnot_icebreaker/pull/5
 Michael Thomas: https://github.com/jrlayton/kuddelmuddel-icebreaker/pull/9
 
 Larry Huang: https://github.com/sjbaraho/Ohrwurm_Story/pull/16
+
+Andrew Lucas: https://github.com/snorth2/Grimm-Geschichte/pull/1
